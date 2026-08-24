@@ -1,0 +1,4 @@
+config.py
+dates.csv
+__pycache__/
+*.pyc
